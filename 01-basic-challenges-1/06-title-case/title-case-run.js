@@ -1,5 +1,5 @@
 const titleCase = require('./title-case');
 
-const result = titleCase('the quick brown fox');
+const result = titleCase('heLLo woRld');
 
 console.log(result);
